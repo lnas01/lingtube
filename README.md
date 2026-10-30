@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://lingtube.net/"><strong>🌐 Official Website</strong></a> | 
-  <a href="https://chromewebstore.google.com/detail/nnichceclhhahkielmnioahofoonefkm"><strong>🚀 Get Started Now</strong></a>
+  <a href="https://chromewebstore.google.com/detail/lingtube-youtubenetflix-d/nnichceclhhahkielmnioahofoonefkm"><strong>🚀 Get Started Now</strong></a>
 </p>
 
 <p align="center">
