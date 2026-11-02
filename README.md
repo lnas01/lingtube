@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://lingtube.net/"><strong>🌐 Official Website</strong></a> | 
-  <a href="https://chromewebstore.google.com/detail/lingtube-youtubenetflix-d/nnichceclhhahkielmnioahofoonefkm"><strong>🚀 Chrome Web Store</strong></a>
-  <a href="https://microsoftedge.microsoft.com/addons/detail/lingtube-youtubenetfli/jjdpkpjplholacafnnhmakhcmnicicmc"><strong>🚀 Edge Web Store</strong></a>
+  <a href="https://chromewebstore.google.com/detail/lingtube-youtubenetflix-d/nnichceclhhahkielmnioahofoonefkm"><strong>🚀 Chrome Web Store</strong></a> | 
+  <a href="https://microsoftedge.microsoft.com/addons/detail/lingtube-youtubenetfli/jjdpkpjplholacafnnhmakhcmnicicmc"><strong>✈️ Edge Web Store</strong></a>
 </p>
 
 <p align="center">
